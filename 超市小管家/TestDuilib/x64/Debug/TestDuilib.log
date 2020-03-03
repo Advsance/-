@@ -1,0 +1,15 @@
+﻿  CashierWnd.cpp
+c:\users\罗强\desktop\收银台\duilib-master\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  common.cpp
+c:\users\罗强\desktop\收银台\duilib-master\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\罗强\desktop\收银台\超市小管家\testduilib\common.cpp(36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  DuilibTest.cpp
+c:\users\罗强\desktop\收银台\duilib-master\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  LogIn.cpp
+c:\users\罗强\desktop\收银台\duilib-master\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainWnd.cpp
+c:\users\罗强\desktop\收银台\duilib-master\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\罗强\desktop\收银台\超市小管家\testduilib\mainwnd.cpp(98): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  MySQL.cpp
+  正在生成代码...
+  TestDuilib.vcxproj -> C:\Users\罗强\Desktop\收银台\超市小管家\x64\Debug\TestDuilib.exe
